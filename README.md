@@ -68,7 +68,7 @@ key, just below `type`, `id`, and `slug`, will bring you to the images page on
 which is found at `images.original.url`. Using other `url` keys may cause CORS
 issues.
 
-## Your Components
+## Your Components.
 
 ### App
 
